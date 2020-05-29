@@ -1,2 +1,1 @@
-# Hellow-world-
-My first repository
+require('C:/Users/asus/Desktop/world.js');
